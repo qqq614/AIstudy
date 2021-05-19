@@ -1,0 +1,5 @@
+scipy==1.5.4
+transformers==3.5.1
+tokenizers==0.9.3
+boto3==1.17.15
+botocore<1.21.0
